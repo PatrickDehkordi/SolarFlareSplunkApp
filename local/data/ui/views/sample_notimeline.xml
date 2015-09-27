@@ -2,7 +2,7 @@
 
 
 <view onunloadCancelJobs="False" autoCancelInterval="100">
-  <label>Sample no timeline</label>
+  <label>No Timeline</label>
   
   <!-- Top level navigation -->
   <module name="AccountBar" layoutPanel="appHeader"/>

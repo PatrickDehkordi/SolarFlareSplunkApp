@@ -1,6 +1,6 @@
 <view onunloadCancelJobs="False" autoCancelInterval="100">
   <!--  autoCancelInterval is set here to 100  -->
-  <label>Sample search</label>
+  <label>Search2</label>
   <module name="AccountBar" layoutPanel="appHeader"/>
   <module name="AppBar" layoutPanel="navigationHeader"/>
   <module name="Message" layoutPanel="messaging">

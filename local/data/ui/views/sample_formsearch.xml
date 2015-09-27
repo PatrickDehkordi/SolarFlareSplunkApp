@@ -1,5 +1,5 @@
 <form>
-  <label>Sample form search</label>
+  <label>Search</label>
   
   <!-- define master search template, with replacement tokens delimited with $. This is an example, replace with your own search.-->
   <searchTemplate>index=sample from="$from$"</searchTemplate>
